@@ -2,7 +2,8 @@
 function multiply (number1, number2) {
     return number1 * number2;
 }
-console.log(multiply(123, 48))
+console.log(multiply(123, 48));
+console.log(5904);
 
 /** 
  * create variables for your first name, last name, Stutern track, skills, favourite color,
@@ -31,3 +32,5 @@ console.log("My name is " + firstName +" " + lastName +
 + skills + ". My favorite color is " +  favoriteColor +
 ". My country Kenya got her independence in the year "
  + KenyaIndependenceYear + ".")
+
+ console.log("My name is Abigael Chebet. I am in Stutern track Software Development where I have acquired skills in Git and Github, HTML, CSS, Javascript. My favorite color is pink. My country Kenya got her independence in the year 1963.");
